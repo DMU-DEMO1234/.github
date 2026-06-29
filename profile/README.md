@@ -2,4 +2,4 @@
 
 ### Demo Organisation
 
-This is a demo organsation used to show how to create and deploy student coursework using [GitHub classroom](https://classroom.github.com/).
+This is a demo organsation used to show how to create and deploy student coursework using [Classroom50](https://classroom50.org/).
